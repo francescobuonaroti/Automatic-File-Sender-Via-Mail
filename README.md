@@ -1,4 +1,4 @@
-# Automatic-File-Sender-Via-Mail
+# Automatic File Send Via Gmail
 
 This is a simple Python script to automate the sending of emails with PDF attachments.
 
