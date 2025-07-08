@@ -16,7 +16,7 @@ The script assumes that PDF files are named using the recipient's email address 
 ## Requirements
 
 - Python 3.6+
-- A Gmail account with an App Password
+- A Gmail account with an App Password (see this: https://support.google.com/accounts/answer/185833?hl=en)
 
 ## Setup
 
